@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm< Larry</h1>
-<h3 align="center">I am a Java developer,</h3>
+<h3 align="center">I am a Java / Lua  developer,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larry000&label=Profile%20views&color=0e75b6&style=flat" alt="larry000" /> </p>
 
