@@ -1,4 +1,9 @@
+<h1 align="center">Hi 👋, I'm Larry</h1>
 <h3 align="center">Lua | Java Développeur</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Larry000&label=Profile%20views&color=0e75b6&style=flat" alt="Larry000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Larry000&theme=" alt="Larry000" /></a> </p>
+
 - 🌍 I work at [UHC World]( https://discord.gg/uhcworld)
 - 🌴 I work at [New Life RP - WL ]( https://discord.gg/newcityroleplay)
 
