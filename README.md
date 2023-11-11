@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/larrysrt" target="blank"><img src="https://img.shields.io/twitter/follow/larrysrt?logo=twitter&style=for-the-badge" alt="larrysrt" /></a> </p>
 
-- 🌍 I work at [UHC World](https://discord.gg/uhcworld)
+- 🌍 I work Minecraft  [UHC World] [AtlantisMC] [Smeltblock]
 
-- 🌴 I work at [New City RP](https://discord.gg/newcityroleplay)
+- 🌴 I work FiveM :  [New City RP] [ProjetV]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
