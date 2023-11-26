@@ -5,7 +5,7 @@
 
 - 🌍 I work Minecraft  [UHC World] [AtlantisMC] [Smeltblock]
 
-- 🌴 I work FiveM :  [New City RP] [ProjetV]
+- 🌴 I work FiveM :  [New City RP] [Lunaris]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
