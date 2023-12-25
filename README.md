@@ -7,7 +7,7 @@
 
 - 🌴 I work FiveM :  [New City RP] [Lunaris]
 
-- 🎯​ I work Garry's mod :  [SolveSCP] [InstantRP] [Rubik's Network]
+- 🎯​ I work Garry's mod : [InstantRP] [Rubik's Network]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
