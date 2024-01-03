@@ -2,7 +2,7 @@
 
 ###
 
-[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/profile?username=Larry&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/profile?username=Larry000&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=lua,js,java,glua)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox - by Jurredr](https://github-widgetbox.vercel.app/api/skills?languages=lua,js,java)](https://github.com/Jurredr/github-widgetbox)
 
 ###
