@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👋 I am currently mastering/learning LUA, JavaScript (JS), and Java. Feel free to explore my GitHub profile to see my latest projects and contributions.</h2>
+<h2 align="left">👋 Working on minecraft since 2018, java developer good knowledge of (Bukkit/Spigot). + Good knowledge in ItemsAdder, Modelengine</h2>
 
 ###
 
