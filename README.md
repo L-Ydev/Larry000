@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👋 Working on minecraft since 2018, java developer good knowledge of (Bukkit/Spigot). + Good knowledge in ItemsAdder, Modelengine</h2>
+<h2 align="left">👋 Working on minecraft, Garrys'mod FiveM  since 2018, java, glua, lua, httml/CSS developer</h2>
 
 ###
 
